@@ -9,8 +9,11 @@ nav ol {
 body {
     font-family: roboto;
     border: 50px;
-    border-color: rgb(212, 229, 223);
+    border-color: rgb(255, 197, 88);
     background-color: rgb(144, 215, 197);
+    margin: 100px;
+    padding: 10px;
+    
 }
 
 h1 {
@@ -22,4 +25,14 @@ h1 {
 nav {
     padding: 25px;
     background-color: rgb(252, 216, 255)
+}
+
+ p{
+    background-color: blanchedalmond;
+    padding: 25px;
+}
+
+div{
+    background-color: blanchedalmond;
+    padding: 25px;
 }
