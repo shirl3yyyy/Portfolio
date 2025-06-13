@@ -1,0 +1,25 @@
+nav ol {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: rgb(252, 216, 255)
+    
+}
+
+body {
+    font-family: roboto;
+    border: 50px;
+    border-color: rgb(212, 229, 223);
+    background-color: rgb(144, 215, 197);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    padding: 25px;
+    background-color: rgb(252, 216, 255)
+}
