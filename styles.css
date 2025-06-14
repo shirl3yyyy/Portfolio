@@ -6,13 +6,19 @@ nav ol {
     
 }
 
+.content{
+    border: 10px black;
+    padding: 20px;
+    
+}
+
 body {
     font-family: roboto;
-    border: 50px;
-    border-color: rgb(255, 197, 88);
-    background-color: rgb(144, 215, 197);
+    border: 50px : black;
+    border-color : rgb(255, 197, 88);
+    background-color: rgb(49, 157, 240);
     margin: 100px;
-    padding: 10px;
+    padding: 20px
     
 }
 
@@ -34,5 +40,14 @@ nav {
 
 div{
     background-color: blanchedalmond;
-    padding: 25px;
+    padding: 10px;
+}
+
+form{
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
+.navbar a:hover{
+    background-color: beige;
 }
